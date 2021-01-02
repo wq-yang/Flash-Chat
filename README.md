@@ -7,9 +7,9 @@ Flash Chat is a light-weight group chat app for both iOS and Android. It is deve
 
 ## Demo
 
-<img src="https://sm.ms/image/nPhYRfbNlBkLp53"></img>
+<img src="https://i.loli.net/2021/01/03/Qiq6tDCWJBTAK4g.png"></img>
 
-<img src="https://sm.ms/image/nPhYRfbNlBkLp53"></img>
+<img src="https://i.loli.net/2021/01/03/nPhYRfbNlBkLp53.png"></img>
 
 
 
